@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "1min-relay",
+	"name": "123",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-07-02",
 	"observability": {
